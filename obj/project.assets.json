@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kelvi\\source\\repos\\RegenciamentoAcademia\\RegenciamentoAcademia\\RegenciamentoAcademia.csproj",
-      "projectName": "RegenciamentoAcademia",
-      "projectPath": "C:\\Users\\kelvi\\source\\repos\\RegenciamentoAcademia\\RegenciamentoAcademia\\RegenciamentoAcademia.csproj",
+      "projectUniqueName": "C:\\Users\\kelvi\\source\\repos\\RegenciamentoAcademia\\RegenciamentoAcademia\\GerenciamentoAcademia.csproj",
+      "projectName": "GerenciamentoAcademia",
+      "projectPath": "C:\\Users\\kelvi\\source\\repos\\RegenciamentoAcademia\\RegenciamentoAcademia\\GerenciamentoAcademia.csproj",
       "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kelvi\\source\\repos\\RegenciamentoAcademia\\RegenciamentoAcademia\\obj\\",
       "projectStyle": "PackageReference",
